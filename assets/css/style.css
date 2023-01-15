@@ -112,7 +112,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 15px;
-  color: #fff;
+  color: rgb(247, 16, 16);
   white-space: nowrap;
   transition: 0.3s;
   font-size: 12px;
@@ -416,6 +416,7 @@ h6 {
 --------------------------------------------------------------*/
 section {
   padding: 60px 0;
+  
 }
 
 .section-bg {
@@ -426,6 +427,7 @@ section {
   text-align: center;
   padding: 30px 0;
   position: relative;
+  
 }
 
 .section-title h2 {
@@ -711,7 +713,7 @@ section {
 }
 
 
-# My Portfolio
+#MysPortfolio
 --------------------------------------------------------------*/
 .portfolio #portfolio-flters {
   list-style: none;
@@ -1153,6 +1155,8 @@ section {
   text-align: center;
   padding: 80px 0;
   position: relative;
+  margin-top: 60px;
+  margin-bottom: 0;
 }
 
 #footer::before {
